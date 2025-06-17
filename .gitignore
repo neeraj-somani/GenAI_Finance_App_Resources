@@ -1,0 +1,6 @@
+.vscode/
+.env
+.streamlit/
+streamlit-storage/
+/__pycache__/
+/lesson5_financeApp_venv/
